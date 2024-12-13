@@ -99,3 +99,5 @@ const stars = [
     { image: 'https://www.babepedia.com/pics/Mary%20Rock3.jpg', name: 'Mary Rock', quality: '1080p', files: 209, size: '200GB', cost: 300 },
     { image: 'https://www.babepedia.com/pics/Dillion%20Harper3.jpg', name: 'Dillion Harper(2)', quality: '1080p', files: 480, size: '470GB', cost: 500 },
 ];
+
+window.stars = stars;
